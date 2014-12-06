@@ -17,4 +17,7 @@ out/
 #KDE files
 .directory
 
+#MacOS files
+.DS_Store
+
 #Project specific files
