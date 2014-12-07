@@ -8,6 +8,7 @@
   <packaging>jar</packaging>
 
   <name>simple-app</name>
+  <description>Simple Java Application</description>
   <url>http://maven.apache.org</url>
 
   <properties>

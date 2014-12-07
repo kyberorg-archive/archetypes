@@ -7,7 +7,8 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>simple-app</name>
+  <name>simple-lib</name>
+  <description>Archetype for Java JAR library</description>
   <url>https://github.com/team/repo</url>
 
   <licenses>
